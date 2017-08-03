@@ -1,0 +1,17 @@
+{
+  "name": "node-protractor",
+  "version": "0.0.1",
+  "description": "A NodeJS Api wrapper for the protractor executable",
+  "main": "index.js",
+  "repository": "https://github.com/bridzius/node-protractor.git",
+  "author": "Jurgis Bridzius <jurgis@bridzius.lt>",
+  "license": "MIT",
+  "dependencies": {
+    "protractor": "^5.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
