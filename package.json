@@ -6,7 +6,7 @@
   "repository": "https://github.com/bridzius/node-protractor.git",
   "author": "Jurgis Bridzius <jurgis@bridzius.lt>",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "protractor": "^5.1.2"
   },
   "devDependencies": {
